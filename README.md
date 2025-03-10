@@ -1,7 +1,7 @@
 # ML_BasicModel
 Implementing basic ML model using some examples
 
-# ML_BasicModel_Part1
+## ML_BasicModel_Part1
 In this file there is implementation of Linear Regression , Lasso & Ridge Regression and Logistic Regression.
 
 Dataset used are
